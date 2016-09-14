@@ -1,0 +1,52 @@
+/*Works Cited
+
+http://www.wildtextures.com/wp-content/uploads/2012/09/wildtextures-deep-grass.jpg
+
+http://stackoverflow.com/questions/3870437/repeating-textures-in-opengl
+
+http://previews.123rf.com/images/buchachon/buchachon1203/buchachon120300029/12910314-Beautiful-polished-gold-texture-Stock-Photo-background.jpg
+*/
+
+
+
+hw3: lighting and 3d objects
+
+***** I used the normals of .6 and .4 on the slants in the star seeing as none of them go in the z direction. This seems to be the best lighting I could get out of the scence. I also tried .7 and .3, and .8 and .2 but these did not work as well. Hopefully it looks correct to the user ******
+
+Hours to complete: 15 hours
+
+Evan Brookens
+CSCI4229/5229 Summer 2016
+
+Key bindings
+/*Works Cited
+http://gamejust4u.webs.com/apps/forums/topics/show/8127559-opengl-color-guide
+https://gist.github.com/23ars/4545671
+http://www.lighthouse3d.com/tutorials/glut-tutorial/keyboard-example-moving-around-the-world/
+
+
+
+ *  3D Objects
+ *
+ *  Demonstrates how to draw objects in 3D.
+ *
+ *  Key bindings:
+ *  m          Go from model view to first person
+ *  x/X          Toggle axes
+ *  c          Toggle light
+ *  i          Stop Light
+ *  []         Move light up and down
+ *  a/A        Change ambient lighting
+ *  d/D        Change difuse level
+ *  s/S        Change specular level
+ *  e/E        Change Emission level
+ *  n/N        Change Shininess level
+ *  page up    Raise Dim
+ *  page down  Lower Dim
+ *  arrows     Change view angle/Move around
+ *  p          In model view, changes from perspective mode to orthogonal
+ *  0          Reset view angle
+ *  ESC        Exit
+ */
+
+ 

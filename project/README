@@ -1,0 +1,53 @@
+Works Cited
+
+http://www.wildtextures.com/wp-content/uploads/2012/09/wildtextures-deep-grass.jpg
+
+http://stackoverflow.com/questions/3870437/repeating-textures-in-opengl
+
+http://previews.123rf.com/images/buchachon/buchachon1203/buchachon120300029/12910314-Beautiful-polished-gold-texture-Stock-Photo-background.jpg
+
+Lots of help from cgtrader.com and yogi3d.com
+music from: https://archive.org/details/EerieCreepyAndScaryMusicForYourScoresDvds
+
+
+
+Final Projects: The forest
+(HAS SOUND)
+Should run with make as long as you have SDL installed as in the example sdl21.
+
+
+I think the collision detection has a lot of potential, but I did not have enough time to fully implement it. It creates a sphere around all objects and the player then uses triginometry to detemain if they are collided.
+
+I took a lot of time picking the correct textures for each object.
+
+The music really ties everything together.
+
+
+
+Hours to Complete: 60 hours
+
+Evan Brookens
+CSCI4229/5229 Summer 2016
+
+ *  Final
+ *
+ *
+ *  Key bindings to play game:
+ *  
+ *  Arrow keys
+
+
+ * Other Key bindings
+ *
+ *  m          Go from model view to first perso
+ *  l          Toggle light
+ *  []         Move light up and down
+ *  page up    Raise Dim
+ *  page down  Lower Dim
+ *  arrows     Move around/Change view angle
+to orthogonal
+ *  0          Reset view angle
+ *  ESC        Exit
+ */
+
+ 
