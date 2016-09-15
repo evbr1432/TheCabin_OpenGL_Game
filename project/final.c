@@ -1474,7 +1474,7 @@ glutPostRedisplay();
    glutInitWindowSize(1000,600);
    glutInitDisplayMode(GLUT_RGB | GLUT_DEPTH | GLUT_DOUBLE);
    //  Create the window
-   glutCreateWindow("Evan Brookens - Final Project - The Forrest");
+   glutCreateWindow("Evan Brookens - Final Project - The Cabin");
    //  Tell GLUT to call "idle" when there is nothing else to do
    glutIdleFunc(idle);
    //  Tell GLUT to call "display" when the scene should be drawn
